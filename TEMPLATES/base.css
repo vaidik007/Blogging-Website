@@ -1,0 +1,87 @@
+header{
+  margin-left: 90px;
+  margin-right: 90px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  border-bottom-style: solid;
+  border-color: grey;
+}
+
+.LOGIN ul{
+
+}
+
+.LOGIN ul li{
+  display: inline-flex;
+
+}
+
+nav{
+
+  margin-left: 90px;
+  margin-right: 90px;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 10px;
+  border-bottom-style: solid;
+  border-color: grey;
+}
+
+.input{
+  border-style: solid;
+  border-color: grey;
+}
+
+.categories ul li{
+  display: inline-flex;
+  padding-left: 10px;
+}
+.search ul li {
+  display: inline-flex;
+  padding-left: 10px;
+}
+
+.row{
+  content: "";
+display: table;
+clear: both;
+margin-left: 90px;
+margin-right: 90px;
+padding: 20px;
+
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  border-style: dashed;
+  border-color: grey;
+  border-width: thin;
+  box-shadow: 10px;
+}
+
+
+
+
+
+footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;   /* Height of the footer */
+   background:;
+}
+
+.foot ul{
+    text-align: center;
+    align-items: center!important;
+}
+.foot ul li{
+  display: inline-flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 0;
+}
